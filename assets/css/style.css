@@ -90,7 +90,7 @@ header h1 {
     max-height: 200px;
 }
 
-#content-image-right{
+.content-image-right{
     float: right;
     margin-left: 25px;
     max-height: 200px;
